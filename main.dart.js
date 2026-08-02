@@ -116131,7 +116131,7 @@ EN(){var s=0,r=A.p(t.H),q,p=this,o,n,m
 var $async$EN=A.k(function(a,b){if(a===1)return A.m(b,r)
 for(;;)switch(s){case 0:m=p.w
 if(m==null){s=1
-break}o="https://nexos-app.netlify.app/#"+("/tienda/"+m.a)
+break}o="martinezvigo30-hub.github.io/nexos-web/#"+("/tienda/"+m.a)
 s=3
 return A.i(A.yy(new A.q7(o)),$async$EN)
 case 3:n=p.c
